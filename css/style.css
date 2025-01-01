@@ -468,7 +468,7 @@
                     }
                     & div{
                         & div{
-                            width: 200%;
+                            width: 100%;
                             justify-content: space-between;
                             & p{
                                 margin: 10px 0;
